@@ -1,0 +1,1 @@
+As part of the PS0001 module, the goal of the project is to program the game PENTAGO in Python, with a simple user interface and game display, and where a human can play against either a human or a computer player.
