@@ -1,1 +1,2 @@
-As part of the PS0001 module, the goal of the project is to program the game PENTAGO in Python, with a simple user interface and game display, and where a human can play against either a human or a computer player.
+As part of the PS0001 module, the goal of the project is to program the game PENTAGO in Python, with a simple user interface and game display, and where a human can play against either a human or a computer player. 
+About PENTAGO: Played on a 6×6 board divided into four 3×3 quadrants, players take turns placing marbles and rotating a quadrant 90° clockwise or counterclockwise. The goal is to align five consecutive marbles vertically, horizontally, or diagonally. The game ends in a draw if the board is full or both players achieve five-in-a-row simultaneously.
