@@ -1,2 +1,21 @@
-As part of the PS0001 module, the goal of the project is to program the game PENTAGO in Python, with a simple user interface and game display, and where a human can play against either a human or a computer player. 
-About PENTAGO: Played on a 6×6 board divided into four 3×3 quadrants, players take turns placing marbles and rotating a quadrant 90° clockwise or counterclockwise. The goal is to align five consecutive marbles vertically, horizontally, or diagonally. The game ends in a draw if the board is full or both players achieve five-in-a-row simultaneously.
+## PENTAGO Game
+PS0001 - Introduction to Computational Thinking (Group Project)
+
+## Project Overview
+This project is a Python implementation of the Pentago board game, developed as part of the PS0001 Computational Thinking course. The game supports human vs human and human vs computer gameplay, with multiple difficulty levels for the computer player.
+Pentago is played on a 6×6 board divided into four 3×3 quadrants. Players take turns placing a marble and rotating one quadrant, aiming to align five consecutive marbles horizontally, vertically, or diagonally.
+
+## Features
+- Fully functional Pentago game engine
+- Console-based user interface
+- Supports:
+  - Human vs Human
+  - Human vs Computer
+- Computer AI with difficulty levels:
+  - Level 1: Random move selection
+  - Level 2: Win-seeking and loss-prevention strategy
+- Automatic detection of:
+  - Wins
+  - Draws
+  - Simultaneous win scenarios
+- Robust input validation and error handling
